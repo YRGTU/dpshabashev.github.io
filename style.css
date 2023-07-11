@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  /* BEGIN (write your solution here) */
+
   font-size: 18px;
   color: #333;
   /* END */
@@ -8,7 +8,7 @@ body {
   line-height: 1.5;
 }
 
-/* BEGIN (write your solution here) */
+/* Стилизация заголовка 1-ого уровня */
 h1 {
   margin-top: 50px;
   margin-bottom: 10px;
@@ -16,15 +16,15 @@ h1 {
   text-align: center;
 }
 
-/* END */
 
+/* Стилизация заголовка 2-ого уровня */
 h2 {
   margin-top: 0;
   padding-bottom: 30px;
   font-size: 25px;
   text-align: center;
 
-  /* END */
+
 
   border-bottom: 2px solid #e3e3e3;
 }
